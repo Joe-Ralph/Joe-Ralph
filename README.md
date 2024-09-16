@@ -1,3 +1,4 @@
+<img src="https://github.com/Joe-Ralph/Joe-Ralph/blob/main/header.png" alt="banner that says Joe Ralphin - software developer">
 <p align="center">
   <h3 align="center">Joe-Ralph</h3>
 <p align="center">
